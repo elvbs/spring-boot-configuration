@@ -1,0 +1,12 @@
+build:
+  version: "v3.0"
+
+# @ConfigurationProperties
+contact:
+  message: "Bank System - Accounts API"
+  details:
+    name: "Erwin Valdes - Developer"
+    email: "elvbs78@gmail.com"
+  phone-numbers:
+    - "(57) 318-484-7694"
+    - "(57) 315-267-3881"
