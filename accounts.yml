@@ -3,7 +3,7 @@ build:
 
 # @ConfigurationProperties
 contact:
-  message: "Bank System - Accounts API 1.0"
+  message: "Bank System - Accounts API 1.0 / Rabbit MQ"
   details:
     name: "Erwin Valdes - Developer"
     email: "elvbs78@gmail.com"
