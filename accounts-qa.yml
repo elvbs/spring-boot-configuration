@@ -3,9 +3,9 @@ build:
 
 # @ConfigurationProperties
 contact:
-  message: "Bank System - Accounts API"
+  message: "Bank System - Accounts API 1.0"
   details:
-    name: "Mario Bernal - QA Lead"
+    name: "Mario Bernal - QA Lead."
     email: "mario.bernal@gmail.com"
   phone-numbers:
     - "(57) 305-745-9906"
