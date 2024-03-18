@@ -3,10 +3,10 @@ build:
 
 # @ConfigurationProperties
 contact:
-  message: "Bank System - Accounts API"
+  message: "Bank System - Accounts API 1.0"
   details:
     name: "Erwin Valdes - Developer"
     email: "elvbs78@gmail.com"
   phone-numbers:
     - "(57) 318-484-7694"
-    - "(57) 315-267-3881"
+    - "(57) 312-267-3881"
