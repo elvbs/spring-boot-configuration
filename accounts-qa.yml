@@ -3,7 +3,7 @@ build:
 
 # @ConfigurationProperties
 contact:
-  message: "Bank System - Accounts API 1.0"
+  message: "Bank System - Accounts API 1.0 / Rabit MQ"
   details:
     name: "Mario Bernal - QA Lead."
     email: "mario.bernal@gmail.com"
